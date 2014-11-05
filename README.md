@@ -1,4 +1,8 @@
-Unity-CarTutorialProject-CSharp-Gotow
-=====================================
+Unity-CarTutorialProject-Gotow
+==============================
 
-Gotow Car Tutorial Project Ported to C# with the help of [M2H's Javascript to C# online converter](http://www.m2h.nl/files/js_to_c.php)
+Gotow Unity Car Tutorial from 2009.  
+Upgraded to work with Unity 4.6  
+Maya Models Replaced with FBX Models.  
+AIF Audio Replaced with Ogg Vorbis.  
+
