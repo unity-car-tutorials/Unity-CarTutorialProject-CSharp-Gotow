@@ -46,17 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\General\DrawWaypointGizmos_Script.js" />
-     <None Include="Assets\Artwork\Car\Shaders\ConstantColorUnderLayer_Shader.shader" />
+     <Compile Include="Assets\GotowTutorialCSharp\Standard Assets\Camera Scripts\MouseOrbit.js" />
+     <Compile Include="Assets\GotowTutorialCSharp\Standard Assets\Camera Scripts\SmoothFollow.js" />
+     <Compile Include="Assets\GotowTutorialCSharp\Standard Assets\Camera Scripts\SmoothLookAt.js" />
+     <None Include="Assets\GotowTutorialCSharp\Artwork\Car\Shaders\ConstantColorUnderLayer_Shader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{A6A23753-4378-A0E4-5616-CD91C823D66B}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
-    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{44682B5F-2CC0-39CF-8614-57FBDCBBF9F8}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

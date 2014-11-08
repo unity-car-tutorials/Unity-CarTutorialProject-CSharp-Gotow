@@ -49,7 +49,7 @@
      <Compile Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
      <Compile Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
      <Compile Include="Assets\Standard Assets\Camera Scripts\SmoothLookAt.js" />
-     <None Include="Assets\Artwork\Car\Shaders\ConstantColorUnderLayer_Shader.shader" />
+     <None Include="Assets\GotowTutorialCSharp\Artwork\Car\Shaders\ConstantColorUnderLayer_Shader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
