@@ -1,8 +1,10 @@
+NOTE: Doesn't work with Unity 5 due to changes in WheelCollider implementation. Please use [this repository](https://github.com/clix9/Unity5-Gotow-Car-Tutorial)
+
 Unity-CarTutorialProject-Gotow
 ==============================
 
 Gotow Unity Car Tutorial from 2009.  
-Upgraded to work with Unity 4.6  
+Upgraded to work with Unity 4.6 
 Maya Models Replaced with FBX Models.  
 AIF Audio Replaced with Ogg Vorbis.  
 
